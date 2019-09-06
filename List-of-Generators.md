@@ -1,3 +1,6 @@
 * [[Combustion Generator]]
 * [[Stirling Generator]]
 * [[Zombie Generator]]
+* [[Frank'n'Zombie Generator]]
+* [[Ender Generator]]
+* [[Photovoltaic Cells]]
