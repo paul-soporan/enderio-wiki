@@ -13,9 +13,9 @@ Higher level capacitors increase the energy production rate (µI/t).
 
 | Capacitor Level              | µI/t |
 | :--------------------------- | ---: |
-| 1 (eg. Basic)                |   80 |
-| 2 (eg. Double-Layer)         |  100 |
-| 3 (eg. Octadic)              |  120 |
-| 4 (eg. Melodic)              |  140 |
-| 5 (eg. Stellar)              |  160 |
-| 6 (eg. Efficiency V Totemic) |  180 |
+| 1 (e.g. Basic)                |   80 |
+| 2 (e.g. Double-Layer)         |  100 |
+| 3 (e.g. Octadic)              |  120 |
+| 4 (e.g. Melodic)              |  140 |
+| 5 (e.g. Stellar)              |  160 |
+| 6 (e.g. Efficiency V Totemic) |  180 |

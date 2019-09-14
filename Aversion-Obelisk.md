@@ -13,9 +13,9 @@ Higher Level Capacitors increase its Range and Energy Buffer.
 
 | Capacitor Level              | Range |
 | :--------------------------- | ----: |
-| 1 (eg. Basic)                |  65^3 |
-| 2 (eg. Double-Layer)         |  97^3 |
-| 3 (eg. Octadic)              | 161^3 |
-| 4 (eg. Melodic)              | 273^3 |
-| 5 (eg. Stellar)              | 385^3 |
-| 6 (eg. Efficiency V Totemic) | 385^3 |
+| 1 (e.g. Basic)                |  65^3 |
+| 2 (e.g. Double-Layer)         |  97^3 |
+| 3 (e.g. Octadic)              | 161^3 |
+| 4 (e.g. Melodic)              | 273^3 |
+| 5 (e.g. Stellar)              | 385^3 |
+| 6 (e.g. Efficiency V Totemic) | 385^3 |

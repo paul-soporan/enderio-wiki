@@ -5,7 +5,7 @@ Disabling Dark Steel Upgrades can be done in 2 ways:
 ## 1. By editing the `enderio.cfg` file in the `config/enderio` folder.
 
 To edit this file, do the following:
-* Open the file with an editor (eg. VS Code, Sublime Text, Notepad++, even Notepad)
+* Open the file with an editor (e.g. VS Code, Sublime Text, Notepad++, even Notepad)
 * Press CTRL+F (or the key combination which enables you to search text in a file)
 * Enter: `upgrades`
 * Go to the line: `S:disabled=`
