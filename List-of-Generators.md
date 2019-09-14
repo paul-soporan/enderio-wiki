@@ -3,4 +3,5 @@
 * [[Zombie Generator]]
 * [[Frank'n'Zombie Generator]]
 * [[Ender Generator]]
+* [[Lava Heat Exchanger]]
 * [[Photovoltaic Cells]]
