@@ -3,7 +3,7 @@
 
 **Generates RF from liquid fuels.**
 
-*For this machine to work, you **have to** insert a [Capacitor|Capacitors]].*
+*For this machine to work, you **have to** insert a [[Capacitor|Capacitors]].*
 
 *Requires a fuel and a coolant.*
 

@@ -5,7 +5,7 @@
 
 **Generates power from [[Dew of the Void|Fluids#dew-of-the-void]].**
 
-*For this machine to work, you **have to** insert a [Capacitor|Capacitors]].*
+*For this machine to work, you **have to** insert a [[Capacitor|Capacitors]].*
 
 *Requires at least 1,400 mB to generate power* and has a buffer of 2,000 mB.
 

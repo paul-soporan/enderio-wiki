@@ -3,7 +3,7 @@
 
 **Generates even more power from [[Nutrient Distillation|Fluids#nutrient-distillation]].**
 
-*For this machine to work, you **have to** insert a [Capacitor|Capacitors]].*
+*For this machine to work, you **have to** insert a [[Capacitor|Capacitors]].*
 
 *Requires at least 1,400 mB to generate power* and has a buffer of 2,000 mB.
 

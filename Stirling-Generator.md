@@ -3,7 +3,7 @@
 
 **Generates energy from furnace fuels.**
 
-*For this machine to work, you **have to** insert a [Capacitor|Capacitors]].*
+*For this machine to work, you **have to** insert a [[Capacitor|Capacitors]].*
 
 Higher level capacitors increase the energy production rate (µI/t) and the efficiency.
 
