@@ -1,13 +1,14 @@
 * [[Alloy Smelter]]
-* [[Power Buffer]]
+* [[Buffers]]
+  * [Creative Buffer](buffers.md#creative-buffer)
+  * [Power Buffer](buffers.md#power-buffer)
+  * [Omni Buffer](buffers.md#omni-buffer)
 * [[Crafter]]
-* [[Creative Buffer]]
 * [[Dialing Device]]
 * [[Dimensional Transceiver]]
 * [[Electric Lights]]
 * [[Farming Station]]
 * [[Impulse Hopper]]
-* [[Omni Buffer]]
 * [[Painting Machine]]
 * [[Powered Spawner]]
 * [[SAG Mill]]

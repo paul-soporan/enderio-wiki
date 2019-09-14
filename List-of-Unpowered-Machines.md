@@ -1,6 +1,7 @@
 * [[Enchanter]]
 * [[Fluid Tanks]]
-* [[Item Buffer]]
+* [[Buffers]]
+  * [Item Buffer](Buffers.md#item-buffer)
 * [[Killer Joe]]
 * [[Lights]]
 * [[Reservoirs]]
