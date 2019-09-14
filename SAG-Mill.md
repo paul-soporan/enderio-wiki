@@ -1,20 +1,33 @@
-![](http://loenwind.info/eio/SAG_Mill.png)
+# SAG Mill
+![](renders/sag_mill.png)
 
-Crushes items.  Used for ore doubling and as a crafting process.
+The SAG Mill grinds ores and other items.
 
-Upgrade with [[capacitors]] to increase speed and energy storage.  Speed is directly related to µI/t.
+Used for ore doubling and as a crafting process.
 
-| Capacitor           | µI/t | Buffer (µI) |
-| :------------------ | ---: | ----------: |
-| Basic               |   20 |     100,000 |
-| Double-Layer        |   60 |     300,000 |
-| Octadic             |  100 |     500,000 |
-| Good Loot Cap (4)   |  160 |     800,000 |
-| Theoretical Max (5) |  260 |   1,300,000 |
+*For this machine to work, you **have to** insert a [[Capacitor|Capacitors]].*
 
-# Grinding Balls
+Higher Level Capacitors increase speed and energy storage.
 
-The slot on the right side of the GUI is for Grinding Balls.  Grinding balls provide bonus outputs and adjust power usage.  The Grinding Ball is consumed when it is first used by an appropriate recipe and must be fully used up before it can be replaced.
+Speed is directly related to µI/t.
+
+| Capacitor Level               | µI/t | Buffer (µI) |
+| :---------------------------- | ---: | ----------: |
+| 1 (e.g. Basic)                |   30 |     100,000 |
+| 2 (e.g. Double-Layer)         |   90 |     300,000 |
+| 3 (e.g. Octadic)              |  150 |     500,000 |
+| 4 (e.g. Melodic)              |  240 |     800,000 |
+| 5 (e.g. Stellar)              |  390 |   1,300,000 |
+| 6 (e.g. Efficiency V Totemic) |  540 |   1,800,000 |
+
+***
+## Grinding Balls
+
+The slot on the right side of the GUI is for [[Grinding Balls]].
+
+Grinding balls provide bonus outputs and adjust power usage.
+
+The Grinding Ball is consumed when it is first used by an appropriate recipe and must be fully used up before it can be replaced.
 
 | Grinding Ball         | Main Output | Bonus Output | Power Use | Durability (µI) |
 | :-------------------- | ----------: | -----------: | --------: | --------------: |
@@ -40,7 +53,7 @@ Grinding Balls are only used in certain recipes determined by the recipe's bonus
 
 * Durability: Specifies how long a Grinding Ball will last.  Measured in µI used by the SAG Mill.  Not visible in the game.
 
-### Add-on Grinding Balls
+#### Add-on Grinding Balls
 
 The following Grinding Balls are added by Ender IO, but are dependent on materials from other mods.
 
@@ -50,7 +63,7 @@ The following Grinding Balls are added by Ender IO, but are dependent on materia
 | Enderium              |            165% |             145% |          125% |             120,000 |
 | Lumium                |            110% |             215% |           90% |             100,000 |
 
-## Grinding Ball Example
+### Grinding Ball Example
 
 The SAG Mill will process 1 Diamond Ore at the cost of 3,600 µI.  It will produce 2 Diamonds, has a 25% chance of producing an auxiliary Diamond, a 15% chance of producing Cobblestone, and a 5% chance of producing Coal Powder.
 
